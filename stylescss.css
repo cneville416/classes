@@ -1,0 +1,60 @@
+.brand {
+	width:20px;
+	height:20px;
+}
+
+.contact {
+	border:1px solid #999;
+	width:200px;
+	padding:8px;
+	overflow:auto;
+	margin-right:10px;
+	float:left;
+	border-radius:15px;
+	margin-top:5px;
+}
+
+
+
+.remove {
+	float:left;
+}
+
+.semesters {
+	margin-left:20px;
+}
+
+.blocks {
+	margin-left:20px;
+}
+
+.abrev {
+	width:75px;
+}
+
+.alert {
+	text-align: center;
+}
+
+.contact h3 {
+	color:#0BDB00;
+}
+
+.classpic {
+	width:75px;
+	height:75px;
+}
+
+.main {
+	float:right;
+	width:65px;
+	height:65px;
+}
+
+.semester {
+	width:85px;
+}
+
+.block {
+	width:75px;
+}
